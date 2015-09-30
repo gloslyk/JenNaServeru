@@ -1,3 +1,2 @@
 # JenNaServeru
-Remote only repo
-Pavluv Glosluv.
+Autor: Glosl **Pavel**.
