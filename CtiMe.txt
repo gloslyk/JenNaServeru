@@ -1,2 +1,2 @@
-﻿Coding: UTF8
-Čti mě prvně.
+﻿Coding: UTF-8
+Čti mně prvně.
